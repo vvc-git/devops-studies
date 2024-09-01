@@ -35,5 +35,6 @@ Dev representaria o lado de desenvolvimento, e Ops a **operação** e sustentaç
 | Operação          | **Kubernetes** e Apache Mesos: Sistemas de orquestração de contêineres open source que automatizam a implantação. Possuem funcionalidades de balanceamento de carga (load balance), para distribuir a carga de trabalho uniformemente entre os containers. |
 | Monitoração       | Nagios: Fase em que é feito o acompanhamento do ambiente em tempo real para análise de performance, comportamentos da aplicação e usuário, troubleshooting (análise de problemas), entre outros.|
 
-![img](Resumo%20de%20DevOPS%204c05e2be9e534882a97dcfb81cc4cad0/Untitled.png)
+![img](https://github.com/user-attachments/assets/c51f82f2-b19d-42ef-a816-d29db4fedb67)
+
 
