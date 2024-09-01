@@ -1,5 +1,5 @@
 
-## o que é DevOPS?
+## O que é DevOPS?
 
 **Uma cultura de ferramentas para aumentar capacidades de desenvolver e entregar softwares.**
 
